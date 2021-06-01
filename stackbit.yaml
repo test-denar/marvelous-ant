@@ -186,7 +186,6 @@ models:
         label: Title
         description: The title of the page
         required: true
-        hidden: true
       - type: model
         name: seo
         models:
