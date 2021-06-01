@@ -181,7 +181,7 @@ models:
     exclude:
       - blog/**/*
     fields:
-      - type: string
+      - type: number
         name: title
         label: Title
         description: The title of the page
