@@ -155,8 +155,6 @@ models:
       - type: markdown
         name: bio
         label: Bio
-    singleInstance: true
-    file: ''
   category:
     type: data
     label: Category
